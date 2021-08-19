@@ -3,4 +3,9 @@
   gather_facts: false
 
   roles:
-  - hogehoge
+    - hogehoge
+
+  tasks:
+    - name: task at play
+      debug:
+        msg: "task at play"
