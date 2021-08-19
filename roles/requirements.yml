@@ -1,0 +1,4 @@
+---
+- name: hogehoge
+  src: https://github.com/zaki-lknr/ansible-sample-role.git
+  version: main
